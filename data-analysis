@@ -1,0 +1,36 @@
+📊 Data Analysis — 数据分析项目与练习
+
+本目录包含我在数据分析过程中的所有练习与项目，主要使用 Python（Pandas / Numpy / Matplotlib） 完成。
+
+📁 内容结构
+data-analysis/
+│── basic-exercises/       ← Python 基础数据处理练习
+│── visualization/         ← 绘图练习（折线图 / 回撤曲线 / 柱状图）
+│── fund-nav-analysis.ipynb  ← 基金净值分析项目（收益率/回撤/Sharpe）
+│── clean-data-examples/   ← 数据清洗案例
+
+📌 项目亮点
+
+使用 Pandas 读取 CSV / Excel
+
+缺失值处理 / 格式转换 / 统计摘要
+
+数据可视化：
+折线图、成交量柱状图、累计收益曲线、最大回撤曲线
+
+基金日收益率计算（pct_change / shift）
+
+指标计算：
+Annual Return、Volatility、Sharpe Ratio、Max Drawdown
+
+🎯 技术栈
+
+Pandas
+
+Numpy
+
+Matplotlib
+
+Seaborn（可选）
+
+你可以继续添加新的 .ipynb、.py 文件，我也可以帮你自动更新目录结构。
