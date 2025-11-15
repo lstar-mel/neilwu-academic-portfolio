@@ -1,97 +1,147 @@
-🐍 Python 与数据分析
-✔ 数据处理与分析
+🎓 Neil Wu Academic Portfolio
 
-Pandas：数据清洗、缺失值处理、分组统计
+金融 · 数据分析 · Python · 基金回测 · 研究方法
 
-Numpy：数组运算、金融数学
+欢迎来到我的学术作品集！
+这个仓库整理了我在 Python、数据分析、基金回测、金融学、ESG、研究方法 等方面的学习与项目内容。
 
-Matplotlib / Seaborn：可视化（折线图、回撤曲线、成交量图等）
+本作品集将持续更新
 
-✔ 回测与绩效指标
+📁 目录结构（持续更新中）
+neilwu-academic-portfolio/
+│
+├── python-learning/                # Python 基础
+│   └── lesson notebooks...
+│
+├── data-analysis/                  # 数据分析项目
+│   ├── fund-analysis/              # 基金回测策略
+│   ├── esg-analysis/               # ESG 数据研究
+│   └── ...
+│
+├── finance-notes/                  # 金融课程笔记（中英文）
+│   ├── CAPM.md
+│   ├── RiskManagement.md
+│   ├── BaselFramework.md
+│   └── ...
+│
+└── research-methods/               # 研究方法（科研必备）
+    ├── regression-examples.ipynb
+    ├── DID-intro.md
+    ├── panel-data-tutorial.ipynb
+    └── ...
+
+🐍 Python & Data Analysis Skills
+
+Python（Pandas / Matplotlib / Numpy）
+
+数据清洗与处理
+
+趋势分析、可视化
+
+金融指标计算（收益率、波动率、最大回撤、夏普比率）
+
+自动化分析流程搭建（Jupyter Notebook）
+
+📊 Data Analysis Projects（数据分析项目）
+1. 基金净值回测（收益 + 回撤 + 夏普）
+
+内容包括：
+
+净值数据导入
 
 日收益率计算
 
-年化收益率 Annual Return
+累计收益曲线
 
-最大回撤 Max Drawdown
+最大回撤
 
-波动率 Volatility
+夏普比率
 
-夏普比率 Sharpe Ratio
+综合可视化图
 
-回撤曲线绘制
+➡ 目录： /data-analysis/fund-analysis/
 
-✔ 金融与量化技能
+2. ESG × 基金业绩分析（规划中）
 
-CAPM、风险管理、因子分析
+包括：
 
-基金绩效评估（Sharpe / Sortino / Alpha）
+ESG评级数据处理
 
-ESG 数据分析
+与基金净值合并
 
-面板数据（Panel Data）
+表现差异分析
 
-双重差分（DID）
+控制变量回归（风格、行业）
 
-📘 当前内容概览（随内容增长自动扩展）
-🔍 Python 学习
+➡ 目录： /data-analysis/esg-analysis/
 
-Python 语法基础
+📚 Finance Notes（金融课程笔记 · 中英文）
 
-函数与类
+包含：
 
-数据可视化
+货币时间价值（TVM）
 
-文件读取、CSV、Excel 数据处理
+CAPM & Markowitz
 
-学习案例：基金净值分析 / 价格可视化 / 回撤曲线
+Interest Rate Risk（利率风险）
 
-📊 数据分析 Projects
+Basel 银行资本监管框架
 
-基金净值回测系统（含收益率、回撤、Sharpe）
+银行杠杆与风险
 
-ESG 因子与基金表现关系分析
+➡ 目录： /finance-notes/
 
-成交量 + 净值图表绘制案例
+🧪 Research Methods（科研方法）
 
-实证回归：基金经理 + 机构投资者持有比例
+未来博士研究的必备技能：
 
-📚 金融课程笔记（中英文）
+OLS 回归
 
-CAPM
+面板数据（FE、RE 模型）
 
-Risk Management
+Difference-in-Differences（DID）
 
-Basel Framework
+Regression Discontinuity（RDD）
 
-量化投资基础
+Event Study（事件研究）
 
-🧪 科研方法教程
+➡ 目录： /research-methods/
 
-回归模型
+🎯 Research Interests（研究方向）
 
-双重差分（DID）
+资产管理（基金、主动/被动策略）
 
-面板数据 Panel Data
+金融科技（FinTech）
 
-研究设计 Research Design
+绿色金融 / ESG
 
-学术论文阅读方法
+银行风险管理
 
-🌱 未来更新计划
+机构投资者行为
 
-上传更多 Python 代码（练习、项目）
+资本市场与投资
 
-上传基金回测模型（完整版本）
+📫 联系方式
 
-ESG 数据清洗与建模
+Email: （你可以填写）
+GitHub: https://github.com/你的用户名
 
-金融数据 API + 抓取方法
+🔥 使用说明
 
-论文阅读笔记整理
+本仓库将持续更新，包括：
 
-HK/澳洲博士申请 Research Proposal 示例
+Python 学习记录
 
-📬 联系
+Notebook 项目
 
-如果你对数据分析、金融研究、Python 学习方向感兴趣，欢迎一起交流！
+风险管理案例
+
+财务分析
+
+ESG 项目
+
+研究设计模板
+
+可复现的学术研究代码
+
+欢迎参观与留言。
